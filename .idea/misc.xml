@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Android-Webview-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Android-Webview-App-master/app/src/main/res/layout/activity_main2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/Android-Webview-App-master/app/src/main/res/layout/notificationtest.xml" value="0.1" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/WebChat_Testing/app/src/main/res/layout/activity_alert_box.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/WebChat_Testing/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/WebChat_Testing/app/src/main/res/layout/alertdialog.xml" value="0.20427350427350427" />
+        <entry key="..\:/Users/nado2/AndroidStudioProjects/WebChat_Testing/app/src/main/res/xml/alertdialogue.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
